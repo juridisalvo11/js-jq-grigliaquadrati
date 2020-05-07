@@ -9,10 +9,21 @@
     height: 100vh;
 }
 
-.griglia {
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+}
+
+.griglia, .griglia-2 {
     width: 500px;
     height: 500px;
     margin: auto;
+}
+
+.griglia-2 {
+    margin-top: 20px;
+    margin-bottom: 50px;
 }
 
 .quadrato {
